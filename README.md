@@ -1,16 +1,16 @@
-## Hi there 👋
+# Nexneev Infotech 🚀
 
-<!--
-**nexneev/nexneev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We build custom software, mobile apps and websites for startups and growing businesses.
 
-Here are some ideas to get you started:
+## What We Do
+- 💻 Custom Software Development
+- 📱 Mobile App Development (Android & iOS)
+- 🌐 Website & Web Application Development
+- 🎨 UI/UX Design
+- ☁️ Cloud Solutions & Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in Touch
+📩 contact.nexneev@gmail.com
+📍 Rishikesh, Uttarakhand, India
+
+🔗 [LinkedIn](https://linkedin.com/company/nexneev) | [Instagram](https://instagram.com/nexneev)
